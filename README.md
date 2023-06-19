@@ -31,10 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/k23wQC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y3M3DBu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs.  First, create a Resource Group.  I called mine "RG-osTicket".  Then create the Windows VM within that resource group. Mine is called "VM-osticket".
+Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs.  First, create a Resource Group.  I called mine "RG-osTicket".  Then create the Windows VM within that resource group. Mine is called "VM-Windows".
 </p>
 <br />
 
