@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs
 - Step 2: Install/Enable IIS in Windows with CGI
 - Step 3: Prepare the virtual machine for osTicket.
-- Item 4
+- Step 4: Create a directory C:\PHP.
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -55,7 +55,7 @@ Step 3: Prepare the virtual machine for osTicket. In the above picture I have la
 <img src="https://i.imgur.com/SZsvyGG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 4
+Step 4: Create a directory C:\PHP.
 </p>
 <br />
 
