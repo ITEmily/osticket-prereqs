@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs
 - Step 2: Install/Enable IIS in Windows with CGI
-- Item 3
+- Step 3: Prepare the virtual machine for osTicket.
 - Item 4
 - Item 5
 
@@ -47,7 +47,7 @@ Step 2: Install/Enable IIS in Windows with CGI
 <img src="https://i.imgur.com/EOnD5ve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3
+Step 3: Prepare the virtual machine for osTicket. In the above picture I have labeled the installation files in the order they will be installed.  Begin by downloading and installing PHP Manager for IIS.  Then, download and install the Rewrite Module.
 </p>
 <br />
 
