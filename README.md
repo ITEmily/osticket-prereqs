@@ -23,7 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 2: Install/Enable IIS in Windows with CGI
 - Step 3: Prepare the virtual machine for osTicket.
 - Step 4: Create a directory C:\PHP.
-- Item 5
+- Step 5: Continue to prepare the VM for osTicket
+- Step 6: 
 
 <h2>Installation Steps</h2>
 
@@ -63,7 +64,7 @@ Step 4: Create a directory C:\PHP.
 <img src="https://i.imgur.com/EOnD5ve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 5
+Step 5: Continue to prepare the VM for osTicket.  Download PHP-7.3.8 and unzip the contents into the C:\PHP folder you just created. Then, download and install VC_redist and MySQL 5.5.62.
 </p>
 <br />
 
