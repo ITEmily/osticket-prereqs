@@ -40,7 +40,7 @@ Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs.  First, create a R
 <img src="https://i.imgur.com/EeSwLgT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2: Install/Enable IIS in Windows with CGI
+Step 2: Install/Enable IIS in Windows with CGI.  IIS (Internet Information Services) is a web server that osTicket runs on.
 </p>
 <br />
 
