@@ -77,6 +77,38 @@ Step 6:Settings for MySQL installation.
 <br />
 
 <p>
+<img src="https://i.imgur.com/QTPwtzW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 7
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/AzEduJU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 8
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/eYkqga6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 9
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3FAjqdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 10
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
