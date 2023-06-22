@@ -81,7 +81,7 @@ Step 6: Settings for MySQL installation. When installing MySQL select the follow
 <img src="https://i.imgur.com/QTPwtzW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7: Open IIS (Internet Information Service) as an Administrator.  
+Step 7: Open IIS (Internet Information Service) as an Administrator.  Register PHP from within IIS.
 </p>
 <br />
 
