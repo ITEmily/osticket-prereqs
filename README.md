@@ -72,7 +72,7 @@ Step 5: Continue to prepare the VM for osTicket.  Download PHP-7.3.8 and unzip t
 <img src="https://i.imgur.com/cW0VJCO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 6:Settings for MySQL installation.
+Step 6: Settings for MySQL installation. When installing MySQL select the following options: Typical Setup, Launch the Configuration Wizard, and Standard Configuration. Make sure you remember your password for later access.
 </p>
 <br />
 
