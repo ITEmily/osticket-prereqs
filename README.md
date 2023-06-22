@@ -25,6 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 4: Create a directory C:\PHP.
 - Step 5: Continue to prepare the VM for osTicket.
 - Step 6: Settings for MySQL installation.
+- Step 7 Open IIS (Internet Information Service) as an Administrator. 
 
 <h2>Installation Steps</h2>
 
@@ -80,7 +81,7 @@ Step 6: Settings for MySQL installation. When installing MySQL select the follow
 <img src="https://i.imgur.com/QTPwtzW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7
+Step 7: Open IIS (Internet Information Service) as an Administrator.  
 </p>
 <br />
 
