@@ -26,9 +26,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 5: Continue to prepare the VM for osTicket.
 - Step 6: Settings for MySQL installation.
 - Step 7: Open IIS (Internet Information Service) as an Administrator.
-- Step 8:
-- Step 9:
-- Step 10: 
+- Step 8: Install osTicket v1.15.8.
+- Step 9: Step 9: Assign Permissions.
+- Step 10: Set up osTicket in Browser.
+- Step 11: Create a database called "osTicket". 
+- Step 12: Clean up. 
 
 <h2>Installation Steps</h2>
 
@@ -92,7 +94,9 @@ Step 7: Open IIS (Internet Information Service) as an Administrator.  Register P
 <img src="https://i.imgur.com/AzEduJU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 8
+Step 8: Install osTicket v1.15.8.  Extract and copy the "upload" folder into C:\inetpub\wwwroot, and then rename the "upload" folder to "osTicket."
+  Now we need to enable some extension. Go to IIS, click "sites", "default", "osTicket". Click "Enable or disable an extension." Right click and enable the following extensions: php_imap.dll, php_intl.dll, php_opcache.dll.
+  Finally, rename ost-sampleconfig.php to ost-config.php.  Find it under C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
 </p>
 <br />
 
@@ -100,7 +104,7 @@ Step 8
 <img src="https://i.imgur.com/eYkqga6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 9
+Step 9: Assign Permissions.  Right Click ost-config.php and under "properties", security tab, advanced, disable inheritance.  Set new permissions for "everyone."
 </p>
 <br />
 
@@ -108,7 +112,7 @@ Step 9
 <img src="https://i.imgur.com/3FAjqdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 10
+Step 10: Set up osTicket in Browser. In IIS go to sites, Default, osTicket.  On the right side of the screen click on "Browse *80". Click "continue" to set up osTicket in the browser. Before you fill in the MySQL Database information, download and install HeidiSQL. 
 </p>
 <br />
 
@@ -116,7 +120,8 @@ Step 10
 <img src="https://i.imgur.com/R8cFVNI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 11
+Step 11: Create a database called "osTicket".  
+  Go back to osTicket in the browser and fill in MySQL Database name at osTicket. MySQL Username is "root" and use the password you had created earlier.
 </p>
 <br />
 
@@ -124,14 +129,9 @@ Step 11
 <img src="https://i.imgur.com/mENJmQL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 12
+Step 12: Clean up.  Delete C:\inetpb\wwwroot\osTicket\setup.
+  Go to C:\inet\wwwroot\osTicket\include\ost-config.php and set permissions to "Read" only.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
