@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 10: Set up osTicket in Browser.
 - Step 11: Create a database called "osTicket". 
 - Step 12: Clean up. 
-br />
+
 <br />
 <br />
 <h2>Installation Steps</h2>
