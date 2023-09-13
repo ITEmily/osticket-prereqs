@@ -20,8 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs
-- Step 2: Install/Enable IIS in Windows with CGI
+- Step 1: Create an Azure Virtual Machine, Windows 10, 4 vCPUs.
+- Step 2: Install/Enable IIS in Windows with CGI.
 - Step 3: Prepare the virtual machine for osTicket.
 - Step 4: Create a directory C:\PHP.
 - Step 5: Continue to prepare the VM for osTicket.
